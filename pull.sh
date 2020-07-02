@@ -17,7 +17,7 @@ if [ $dir = $HOME/git ]; then
 	echo ""
 	echo "YAY!"
 else
-	echo "Debes estar en git" 
+	echo "You should be on $HOME/git" 
 fi
 
 
