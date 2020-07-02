@@ -14,7 +14,7 @@ Just run
 
 This is intended to work on my system, if necessary change everything you need to adjust it to your system. 
 
-For this to work properly you must have your directories inside a directory called “git”. 
+For this to work properly you must have your repositories inside a directory called “git”. 
 
 So far, this has only been tested on Linux, but it was created with the objective to work on git-bash on Windows. 
 ***
