@@ -11,6 +11,7 @@ Just run
 ```
 ./pull.sh
 ```
+!Run it before make changes to your repositories!!!!!
 
 This is intended to work on my system, if necessary change everything you need to adjust it to your system. 
 
