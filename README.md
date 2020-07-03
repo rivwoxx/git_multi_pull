@@ -2,7 +2,7 @@
 Git Repositories Multi_Pull tool
 
 ## Usage
-***
+
 Change permission to exec .sh
 ```
 chmod +x pull.sh 
